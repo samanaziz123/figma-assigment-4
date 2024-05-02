@@ -1,0 +1,35 @@
+.bg-custom {
+    background: rgba(255, 255, 255, 1);
+
+}
+.bg-custom-third-section{
+    background: rgba(117, 191, 122, 1);
+
+}
+.bg-span{
+    color: rgba(117, 191, 122, 1);
+   
+   
+   }
+   .bg-p{
+       color: rgba(158, 157, 162, 1);
+   
+   }
+   body{
+      overflow-x: hidden;
+   }
+   .lrtb{
+       position: absolute;
+       bottom: -42.5rem;
+       left: 49rem;
+   }
+   .position-fixed{
+       position: absolute;
+       top: 85rem;
+   
+   }
+   
+   .border-custom {
+       border: 1px solid #FFFFFF;
+       background: #FFFFFF;
+   }
